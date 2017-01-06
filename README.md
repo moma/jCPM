@@ -13,6 +13,5 @@ Mainly based on:
  
  
  
-Author: Samuel Castillo (http://github.com/pksm3)  
+Author: Samuel (http://github.com/pksm3)  
 IE CNRS - @Institut des Systèmes Complexes de Paris Île-de-France
-samuel.castillo@iscpif.fr
